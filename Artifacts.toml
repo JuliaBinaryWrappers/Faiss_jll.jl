@@ -1,0 +1,316 @@
+[[Faiss]]
+arch = "aarch64"
+git-tree-sha1 = "ccf48bd3895a0a23f8d65a1ef82d91bb9f492874"
+os = "macos"
+
+    [[Faiss.download]]
+    sha256 = "8ef2cd092bd124c16faa114e1665d424a99daf36efff14160e67d11f47b339bd"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.aarch64-apple-darwin.tar.gz"
+[[Faiss]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4b9562d20e3898a2bb8efb4f87e4bc19e0b2959e"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "c1eae2a4d80225e9778e00a32143285b6da75be7f895343eb3f57ce766406f9c"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Faiss]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "58f9ff28c1f6001ac42a2759024028a0cc8d5e38"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "3ff7bf9a4d49b1cda81d6c4b8d35326d2bd6825fcbbdfb6c268d81a603231d02"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Faiss]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8615b0391febf0c69048b56cf243aa97c255ab65"
+libc = "musl"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "2936525002237b28b4fcdbd3f5a532b0d8c353d2f1d80f5ae0aea59e2962c769"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Faiss]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f5d5e48654e83f020806972805d4c6faa96b9fe"
+libc = "musl"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "ed0cfd4473fdc70ba6ae22031ed481a136cc3dbcaa6053a1285b3ac4975191fb"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Faiss]]
+arch = "aarch64"
+git-tree-sha1 = "d63a152825d67ac53110a174701b0470e7c96897"
+os = "freebsd"
+
+    [[Faiss.download]]
+    sha256 = "0639cff76b4bf218f1e22562bc59282045e9a29c45edaa5c5093a608e47e048c"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.aarch64-unknown-freebsd.tar.gz"
+[[Faiss]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a3f1d176e472c8e37a1680638a39fcc8955ef213"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "3a01a39d0683faf6dfeb1bb789da0a11ec1f15a9f99170607e39700444d4cbb6"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Faiss]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07e93a7230228683d15d11d18cebf5ae43b5934a"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "81c340cf445f8934d0b8890b70dd2e2bc0514279e970e9cf9f599d82d795d4f1"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Faiss]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94c864d1f174def67549e40bbb904c1bb56e371e"
+libc = "musl"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "7533e113f0ee2fc6081074e75878f1fe844136eae5df888a31e3f1ee6114ed23"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Faiss]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dfc237bb93ef8c46d760c6decae1197cd5584d42"
+libc = "musl"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "19cf4af6e95dbe40b5b5ccc78aa06b21e96fd66813af9b73208ab4b4d13adda8"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Faiss]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "39f4338f76217fc0585c0f578c275c1fe23541d6"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "bc3d9ac156f5fd7a510c560a2a0b7cfd3ca91218153b618f83c71dd77853f026"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Faiss]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "12ac92d2113c4c7fac0fe8fbb9791ac43c4ef760"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "aa503c25f138f68b43ef4086be635c06733bbf1d7c62faba6a2817f9ffa142b3"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Faiss]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "94385901229e7536c1a9709afefc6390458c00f5"
+libc = "musl"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "4f0c8d658e2ae45d6a0c16c381aa6acb676bdbc36cebd230336242b94f04ab39"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Faiss]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a4d3ab771d5893d425fee10206076ae6861df879"
+libc = "musl"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "3c40d10a4763ef83d771ec037e6ebfb751f7308e6897c0ff73299a971f7061c1"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Faiss]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7ca538410db2bc4002bdd0ca932b070c0da73387"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "47e3a55b9aa7b1d26ab38d2810c714afc4526bb36196f67dfbef15e00dc7d162"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.i686-linux-gnu-cxx03.tar.gz"
+[[Faiss]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e9e5f8ab383518a9c7d22bb348146d83aa5f0e8f"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "25f3f8a457e80706d2f1a010ed7141e1370eb290ea0e2250a4c672d5f4d05d16"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.i686-linux-gnu-cxx11.tar.gz"
+[[Faiss]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fd6f299b52b233289f92244302818652e9bce6af"
+libc = "musl"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "8304b452e521fb740bbf69e8c08f02f87f519fca9ec958dd1315b130c8f8bc72"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.i686-linux-musl-cxx03.tar.gz"
+[[Faiss]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "abce904a4991b2257bcee55795159b18a638061e"
+libc = "musl"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "c1790f18f1b8e1a00ba08010f2223f83e83b7d9a1a6d092f627ceeab9abad726"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.i686-linux-musl-cxx11.tar.gz"
+[[Faiss]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f74b39c7f3596b9c5d380bc89c842d49c6308a87"
+os = "windows"
+
+    [[Faiss.download]]
+    sha256 = "2365d1114e85b2ba85b93b10d988cb0450a0087ee3ec733f6cf3a0a311577a09"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Faiss]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4b9be259ef189a5f8f4063cb00b9b1fac5d83ce6"
+os = "windows"
+
+    [[Faiss.download]]
+    sha256 = "e8f0d95c7fab54d24294680d2a29fb217f42db49d5a3308b4d5ad801d53ac9c4"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Faiss]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ef79ea223a4f1503da2787a99dd9e4a1efa0dae6"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "63e935924c5f64cf3abdc2c6af425e85a6cbd3fcd202b544d0ca40fd68e05f62"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Faiss]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b21dd44adf08a4b6f54d46b7ed0b934865906e8b"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "608a3900a33777c35fd4bf20bca778481d9d4ac53db1abeb5a03f714200ce534"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Faiss]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "382e2d6c2b4b050bd47c880697ca167ccf03e4e7"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "62abcec6a5d8ef7836c7fd57cfc5f40189440765c1b9369a9b05701c3ba4c647"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[Faiss]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3be6ab22e82ba877e99e70cb38dd67194c553f6"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "e6f05c99c0c38a6c87194805cc3fc4be93ffecbb543ce4e3be61ffcae5b0ce36"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[Faiss]]
+arch = "x86_64"
+git-tree-sha1 = "bc3c06877423dd2fa7fb2fd394e0b394d420de23"
+os = "macos"
+
+    [[Faiss.download]]
+    sha256 = "3eaccfd3c5b3333fba4d22c96102923d12578856f6ee8662555f0dcaa647973c"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.x86_64-apple-darwin.tar.gz"
+[[Faiss]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23287a674b6221ef2e856e39e8c59bc08df6ecfa"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "b7296d4c197170020778bcc19f2cc813beedd855193b172dac306e725d7a1e22"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Faiss]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3b754606efe15fe32e87992916170a076ef1db27"
+libc = "glibc"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "7ac3bcfc4debfea89014bd59bbb34996bd412e2245dfbb3d6e6f25ffd60561cf"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Faiss]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "acb1deb7913a8c5590aa0b73f82a99c77c87e3bb"
+libc = "musl"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "31d6b24785102d23e6a2a6cef4e26bc1ea6f124c92b05ebbaba9903cf01ec249"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Faiss]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fecc57f72f667ebf44e0f47a6eed9ffbf044af35"
+libc = "musl"
+os = "linux"
+
+    [[Faiss.download]]
+    sha256 = "dfd1b2d6c54dd0a7b27d5f78463ce04306bfec78b86bcadf2b0ed105946f63da"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Faiss]]
+arch = "x86_64"
+git-tree-sha1 = "489b5e966116da12d63b037ea8beada83548d32b"
+os = "freebsd"
+
+    [[Faiss.download]]
+    sha256 = "73396068aee82049330fb4a11dc643daf1889cd0c61090ff5a65bb5845ad7231"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.x86_64-unknown-freebsd.tar.gz"
+[[Faiss]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8078d53de03607b9179d031da0a42117d754aae2"
+os = "windows"
+
+    [[Faiss.download]]
+    sha256 = "38af147f4d1dee6ea16768c318f43659f139f7119a251eded897314644e7b94b"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Faiss]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aefd2e9f9d882d8ee15d83f0e8d110ac066468ff"
+os = "windows"
+
+    [[Faiss.download]]
+    sha256 = "a3469b89b36fa702dfc80cbef164741e5c1eecc829da0aab0de40766ebca2c8d"
+    url = "https://github.com/JuliaBinaryWrappers/Faiss_jll.jl/releases/download/Faiss-v1.9.0+0/Faiss.v1.9.0.x86_64-w64-mingw32-cxx11.tar.gz"
