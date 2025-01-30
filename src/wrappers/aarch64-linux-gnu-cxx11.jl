@@ -2,15 +2,14 @@
 export faiss_c_api_faiss_c_h, faiss_index_h, libfaiss, libfaiss_c
 
 using CompilerSupportLibraries_jll
-using LAPACK_jll
-using OpenBLAS32_jll
+using libblastrampoline_jll
 JLLWrappers.@generate_wrapper_header("Faiss")
 JLLWrappers.@declare_file_product(faiss_c_api_faiss_c_h)
 JLLWrappers.@declare_file_product(faiss_index_h)
 JLLWrappers.@declare_library_product(libfaiss, "libfaiss.so")
 JLLWrappers.@declare_library_product(libfaiss_c, "libfaiss_c.so")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, LAPACK_jll, OpenBLAS32_jll)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, libblastrampoline_jll)
     JLLWrappers.@init_file_product(
         faiss_c_api_faiss_c_h,
         "include/faiss/c_api/faiss_c.h",
